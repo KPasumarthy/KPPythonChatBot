@@ -1,11 +1,11 @@
-# Flask Web App Tutorial
+# Python Flask Web App & Chat Bot
 
 ## Setup & Installation
 
 Make sure you have the latest version of Python installed.
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/KPasumarthy/KPPythonChatBot
 ```
 
 ```bash
@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
+python bot.py
 ```
 
 ## Viewing The App
